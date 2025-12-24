@@ -113,7 +113,7 @@ Quick Screen (cheap model) → Detailed Evaluation (expensive model) → Human R
 async def quick_screen(response, prompt, threshold=0.7):
     """Fast, cheap screening for obvious passes/fails."""
     result = await generate_text(
-        model='gpt-3.5-turbo',  # Cheaper model
+        model='gpt-5.2',  # Cheaper model
         prompt=f"Rate 0-1 if this response adequately addresses the prompt:\n\nPrompt: {prompt}\n\nResponse: {response}",
         temperature=0
     )
@@ -127,7 +127,7 @@ async def quick_screen(response, prompt, threshold=0.7):
 async def detailed_evaluation(response, prompt, criteria):
     """Full evaluation for borderline or important cases."""
     result = await generate_text(
-        model='gpt-4o',  # More capable model
+        model='gpt-5.2',  # More capable model
         system=DETAILED_EVALUATION_PROMPT,
         prompt=build_detailed_prompt(response, prompt, criteria),
         temperature=0.3

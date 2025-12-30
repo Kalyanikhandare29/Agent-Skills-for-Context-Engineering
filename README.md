@@ -134,11 +134,6 @@ The [book-sft-pipeline](examples/book-sft-pipeline/) example demonstrates traini
 - **Tinker Integration**: Complete LoRA training workflow with $2 total cost
 - **Validation Methodology**: Modern scenario testing proves style transfer vs content memorization
 
-Includes a complete Gertrude Stein case study with:
-- 592 training examples from one 86,000-word book
-- 97% loss reduction over 15 minutes of training
-- Verified original content generation
-
 Integrates with context engineering skills: project-development, context-compression, multi-agent-patterns, evaluation.
 
 ## Star History

